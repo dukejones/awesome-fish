@@ -25,6 +25,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Fisher](https://github.com/jorgebucaran/fisher) - Zero configuration universal package manager
 - [Fundle](https://github.com/danhper/fundle) - Configuration-based package loader—for Vundle.vim fans
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - Oh My Zsh meets fish~!
+- [Triton](git@github.com:dukejones/awesome-fish.git) - The simplest possible thing that just works. Inspiration from Vim's Pathogen library.
 
 > ✋ [Need help choosing?](https://github.com/jorgebucaran/fisher/issues/481)
 
